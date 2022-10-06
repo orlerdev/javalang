@@ -13,5 +13,3 @@ Z
 +Section5/src/section_five/LargestPrime.java,7/1/71d6efb3c79fc9df9a8748b11fab9c93fd5592ac
 S
 #Section5/src/section_five/Main.java,a/9/a9c033f357a018e3c71d20c7080e79a68bfb2ff2
-[
-+Section5/src/section_five/DiagonalStar.java,2/0/20cd0451a47bced016ee1f829aae38681f0bf444
