@@ -13,8 +13,8 @@ public class MinimumAndMaximumChallenge {
         System.out.println("Enter number:");
 
         while (true) {
-            boolean isAnInt = scanner.hasNextInt();
             System.out.println("Enter number:");
+            boolean isAnInt = scanner.hasNextInt();
 
             if (isAnInt) {
                 userInputs.add(scanner.nextInt());
