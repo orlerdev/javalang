@@ -1,8 +1,6 @@
 
 U
 %src/section_five/SwitchStatement.java,2/7/27fbe6cda068562cf0d9be2d482299916f06b329
-[
-+src/section_five/DayOfTheWeekChallenge.java,8/5/85fff8900c73eabb5690d96ef2422c3f8f0a3eea
 K
 src/section_five/IsOdd.java,d/e/deb729b9072845e8e482bd64da112779d6af3eb3
 N
@@ -43,3 +41,5 @@ Q
 !src/section_five/FlourPacker.java,e/7/e73b30e23bfe5db23f87b250c072eb227aa794e5
 J
 src/section_five/Main.java,5/1/510791db49241a7047cf5400c43cff347f0167db
+[
++src/section_five/DayOfTheWeekChallenge.java,8/5/85fff8900c73eabb5690d96ef2422c3f8f0a3eea
