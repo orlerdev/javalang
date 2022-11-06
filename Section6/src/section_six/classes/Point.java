@@ -1,4 +1,4 @@
-package section_six;
+package section_six.classes;
 
 public class Point {
     private int x;

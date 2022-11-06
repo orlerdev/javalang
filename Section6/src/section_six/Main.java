@@ -1,5 +1,9 @@
 package section_six;
 
+import section_six.classes.VipCustomer;
+import section_six.inheritance.Animal;
+import section_six.inheritance.Dog;
+
 public class Main {
     public static void main(String[] args) {
 //        Car porsche = new Car();
@@ -22,8 +26,15 @@ public class Main {
 //        Account practiceAccount = new Account("donaldDuck@email.com", "234-432-4444");
 //        System.out.println(practiceAccount.getCustomerName() + " " + practiceAccount.getBalance());
 
-        VipCustomer myVip = new VipCustomer("Henry", "johnson@gmail.com");
-        System.out.println(myVip.getCreditLimit() + " " + myVip.getName() + " " + myVip.getEmailAddress());
+//        VipCustomer myVip = new VipCustomer("Henry", "johnson@gmail.com");
+//        System.out.println(myVip.getCreditLimit() + " " + myVip.getName() + " " + myVip.getEmailAddress());
+
+        Animal animal = new Animal("Animal", 1, 1, 5, 5);
+        Dog dog = new Dog("Husky", 10, 55, 2, 4, 1, 32, "double insulated");
+
+        dog.eat();
+        dog.walk();
+        dog.run();
     }
 
 }
