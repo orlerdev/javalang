@@ -1,0 +1,13 @@
+
+N
+java:S3400"9Remove this method and declare a constant for this value.(Ÿ®¢?
+P
+java:S1854ˆ"9Remove this useless assignment to local variable "price".(‘ì¦š
+Q	java:S125N"<This block of commented-out lines of code should be removed.(§éè˜
+P	java:S125n"<This block of commented-out lines of code should be removed.(¢Ùñ~
+A
+java:S1481ˆ"*Remove this unused "price" local variable.(‘ì¦š
+E
+java:S2140")Use "java.util.Random.nextInt()" instead.(çÔÂ¸ÿÿÿÿÿ
+Y
+java:S1128"7Remove this unused import 'section_seven.polymorphism'.(„Üºøÿÿÿÿ8Ìí¨Æ0
