@@ -7,7 +7,10 @@ Q	java:S125N"<This block of commented-out lines of code should be removed.(§éè
 P	java:S125n"<This block of commented-out lines of code should be removed.(¢Ùñ~
 A
 java:S1481ˆ"*Remove this unused "price" local variable.(‘ì¦š
+V	java:S106"9Replace this use of System.out or System.err by a logger.(Â×àè8‡…ÛÎÆ0
+V	java:S106’"9Replace this use of System.out or System.err by a logger.(ì’€À8‰…ÛÎÆ0
 E
 java:S2140")Use "java.util.Random.nextInt()" instead.(çÔÂ¸ÿÿÿÿÿ
+V	java:S106"9Replace this use of System.out or System.err by a logger.(¶ƒé˜8…ÛÎÆ0
 Y
 java:S1128"7Remove this unused import 'section_seven.polymorphism'.(„Üºøÿÿÿÿ8Ìí¨Æ0

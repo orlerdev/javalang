@@ -17,8 +17,6 @@ f
 6src/section_seven/polymorphism/car_challenge/Ford.java,b/1/b1f942ab9fec51b364a01fdb4956849091c415ba
 ^
 .src/section_seven/composition/Motherboard.java,e/0/e0d5b7d08bb9a40b43948cbac1d37a5a1ba77529
-\
-,src/section_seven/encapsulation/Printer.java,1/a/1a67d161181fce46c2d2721f2d4234849d34fa4b
 ]
 -src/section_seven/composition/Dimensions.java,a/e/ae8e176ffd9155ceecc3ce9e71ce562480221861
 U
@@ -57,8 +55,6 @@ W
 'src/section_seven/polymorphism/Car.java,7/e/7e010952c506a6687587a24db4be911a35b6200d
 W
 'src/section_seven/composition/Case.java,7/9/79a1eca5cacebe70dc6ba04392a254413e3977ce
-K
-src/section_seven/Main.java,e/f/ef970ef83d2829484869b5a3ed61f36858fc7f55
 `
 0src/section_seven/MasterChallenge/Hamburger.java,4/2/426f32c1b8b54a5831aeb0aaa959b8c756883132
 d
@@ -71,3 +67,7 @@ l
 <src/section_seven/bills_burgers_challenge/HealthyBurger.java,e/7/e775a702e69783d6ee529a3f018dc52c6cc0b16d
 k
 ;src/section_seven/bills_burgers_challenge/DeluxeBurger.java,9/c/9c9dbda145521a7d68542f6fecce1f1751f2c0b2
+\
+,src/section_seven/encapsulation/Printer.java,1/a/1a67d161181fce46c2d2721f2d4234849d34fa4b
+K
+src/section_seven/Main.java,e/f/ef970ef83d2829484869b5a3ed61f36858fc7f55
