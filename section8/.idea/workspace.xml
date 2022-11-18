@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f092a542-2a96-484e-81fa-5358aecbbce2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/c/3/c3b939c7a14167f9ae5139b6a26ccfebdabbeac3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/d/9/d9940a627a0c1c04ed2882c2b8fde74debedd233" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/section8/section_eight/MinElementChallenge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/section8/section_eight/MinElementChallengeConsice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinElementChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_eight/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_eight/MinElementChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_eight/SortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/2/8/28882f9d04e2120fdb5861505debcb26e5d37950" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/2/8/28882f9d04e2120fdb5861505debcb26e5d37950" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/4/e/4e846b43ccc95fe2774c13b34770d08feaf678a1" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroceryList/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroceryList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ResizingArrays/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/e/b/ebdb7644ce334903a3fda1a9fc0886498e203eae" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/e/b/ebdb7644ce334903a3fda1a9fc0886498e203eae" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section 7/.idea/sonarlint/issuestore/e/f/ef970ef83d2829484869b5a3ed61f36858fc7f55" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 7/.idea/sonarlint/issuestore/e/f/ef970ef83d2829484869b5a3ed61f36858fc7f55" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section 7/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 7/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section8/ReverseArrayChallenge/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/section8/ReverseArrayChallenge/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +57,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.postfix.templates&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
@@ -84,7 +77,20 @@
       <command value="Main" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseArrayChallenge.Main">
+  <component name="RunManager" selected="Application.GroceryList.Main">
+    <configuration name="GroceryList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroceryList.Main" />
+      <module name="section8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GroceryList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_eight.Main" />
       <module name="section8" />
@@ -113,8 +119,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseArrayChallenge.Main" />
+        <item itemvalue="Application.GroceryList.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ReverseArrayChallenge.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +136,19 @@
       <workItem from="1668200736697" duration="1265000" />
       <workItem from="1668205000275" duration="6199000" />
       <workItem from="1668219306325" duration="11185000" />
-      <workItem from="1668287665104" duration="5218000" />
+      <workItem from="1668287665104" duration="5982000" />
+      <workItem from="1668469943463" duration="1466000" />
+      <workItem from="1668474023806" duration="742000" />
+      <workItem from="1668474950333" duration="383000" />
+      <workItem from="1668475345440" duration="459000" />
+      <workItem from="1668475825625" duration="1711000" />
+      <workItem from="1668482477341" duration="3781000" />
+      <workItem from="1668550126720" duration="1195000" />
+      <workItem from="1668628872155" duration="2805000" />
+      <workItem from="1668637563676" duration="655000" />
+      <workItem from="1668659129597" duration="1495000" />
+      <workItem from="1668661150382" duration="1803000" />
+      <workItem from="1668801194947" duration="1692000" />
     </task>
     <servers />
   </component>
@@ -149,5 +168,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
